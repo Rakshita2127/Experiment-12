@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+class Rakshita
+{
+    public:
+    Mansi() {
+        cout<<"Hello Rakshita"<<endl;
+    }
+};
+int main() {
+    Rakshita obj; 
+    return 0;
+}
