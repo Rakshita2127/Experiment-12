@@ -3,7 +3,7 @@ using namespace std;
 class Rakshita
 {
     public:
-    Mansi() {
+    Rakshita() {
         cout<<"Hello Rakshita"<<endl;
     }
 };
